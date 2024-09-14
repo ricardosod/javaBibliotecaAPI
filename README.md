@@ -6,4 +6,4 @@ O objetivo deste desafio é implementar um sistema simples de gerenciamento de u
 
 
 ### Diagrama DER
-![Ricardosod](https://github.com/ricardosod/javaBibliotecaAPI/blob/main/assets/DiagramaDER.png)
+![Diagrama DER](https://github.com/ricardosod/javaBibliotecaAPI/blob/main/assets/DiagramaDER.png)
